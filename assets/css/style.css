@@ -1447,6 +1447,13 @@ footer .credits a {
   padding-bottom: 0;
 }
 
+.coursework-mf .box-shadow-full {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
 #skills {
   margin-top: 0;
   padding-top: 0;
@@ -1457,3 +1464,5 @@ footer .credits a {
 .lead {
   font-size: 18px;
 }
+
+
